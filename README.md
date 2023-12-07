@@ -1,2 +1,2 @@
-# o caminho dos ventos
+# O Caminho dos Ventos
 Planejamento de uma grande aventura

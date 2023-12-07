@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: O Caminho dos Ventos
-description: Planejamento de uma grande aventura
+# o caminho dos ventos
+Planejamento de uma grande aventura
